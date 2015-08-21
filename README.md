@@ -1,5 +1,4 @@
 # Artificial-Intellegence
-Artificial Intellegence
 
 A roadmap:
 
@@ -8,11 +7,11 @@ A roadmap:
   * ability to search web for data 
   * and store connections between that data (context and frequency) 
   * analyze that data and connections for patterns (Bluemix?)
-* Create crowd-curated content rank lists (3,4) (in progress)
+* Create crowd-curated content rank lists (3,4 in progress)
 * Find most-read Wikipedia and web data sites and traffic between them
 * Find most-read Reddit, Facebook and social media sites
 * Analyze most authorative source per topic
-* Assemble models of integrated data (in progress InsightMaker)
+* Assemble models of integrated data (5 in progress)
 * Assemble iterative machine-learning goal-based problem solving 
   * with specific code libraries for various  
 * Formulate goal list
@@ -24,4 +23,5 @@ A roadmap:
 2. https://github.com/auwsome/Commands
 3. http://www.ranker.com/list/best-open-source-freeware-or-portable-apps/aegeus
 4. http://www.allourideas.org/
+5. https://insightmaker.com/insight/35301/HelloWorld
 
