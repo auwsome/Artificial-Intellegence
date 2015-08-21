@@ -2,7 +2,7 @@
 
 A roadmap:
 
-* Create voice commands (NLP) based bot = (in progress)
+* Create voice commands ("NLP") based bot (0, in progress)
   * with repository of common command keywords (1) and code usage crowd-maintained on GitHub (2)
   * ability to search web for data 
   * and store connections between that data (context and frequency) 
@@ -18,7 +18,7 @@ A roadmap:
 * Make replication mutable, provide user access and selection process
 
 
-
+0. https://github.com/auwsome/pybot
 1. https://github.com/auwsome/Voice-Commands
 2. https://github.com/auwsome/Commands
 3. http://www.ranker.com/list/best-open-source-freeware-or-portable-apps/aegeus
