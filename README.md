@@ -16,7 +16,7 @@ A roadmap:
 * Assemble iterative machine-learning goal-based problem solving 
   * with specific code libraries for various  
 * Formulate goal list
-* Make replication mutable, provide user access and selection
+* Make replication mutable, provide user access and selection process
 
 
 
